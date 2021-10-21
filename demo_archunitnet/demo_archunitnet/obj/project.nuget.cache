@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ioi1SwD6f6240q3iHlnZKwV06qj2xaqUuu75EdGvmXSe0SpZ2SquKiHpZBgN4gr1jgUCOT485/Q0XymDwsZATA==",
+  "success": true,
+  "projectFilePath": "/Users/mario.baron/Documents/Development/Training de arquitectura/Training-ejercicio-archunitnet/demo_archunitnet/demo_archunitnet/demo_archunitnet.csproj",
+  "expectedPackageFiles": [
+    "/Users/mario.baron/.nuget/packages/cycledetection/2.0.0/cycledetection.2.0.0.nupkg.sha512",
+    "/Users/mario.baron/.nuget/packages/jetbrains.annotations/2020.3.0/jetbrains.annotations.2020.3.0.nupkg.sha512",
+    "/Users/mario.baron/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/mario.baron/.nuget/packages/mono.cecil/0.11.4/mono.cecil.0.11.4.nupkg.sha512",
+    "/Users/mario.baron/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/mario.baron/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/mario.baron/.nuget/packages/nunit/3.13.2/nunit.3.13.2.nupkg.sha512",
+    "/Users/mario.baron/.nuget/packages/system.collections.immutable/1.5.0/system.collections.immutable.1.5.0.nupkg.sha512",
+    "/Users/mario.baron/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/Users/mario.baron/.nuget/packages/tngtech.archunitnet/0.8.4/tngtech.archunitnet.0.8.4.nupkg.sha512",
+    "/Users/mario.baron/.nuget/packages/tngtech.archunitnet.nunit/0.8.4/tngtech.archunitnet.nunit.0.8.4.nupkg.sha512"
+  ],
+  "logs": []
+}

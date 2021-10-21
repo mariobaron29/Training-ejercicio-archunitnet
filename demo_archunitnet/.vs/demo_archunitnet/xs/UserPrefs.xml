@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{986E8EEE-D10E-4C30-A44B-421C2CBB301F}|Default">
+  <MonoDevelop.Ide.ItemProperties.demo__archunitnet FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="demo_archunitnet/application/Program.cs">
+    <Files>
+      <File FileName="demo_archunitnet_tests/UnitTest1.cs" Line="1" Column="23" />
+      <File FileName="demo_archunitnet/application/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="demo_archunitnet" expanded="True">
+            <Node name="demo_archunitnet" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="application" expanded="True">
+                <Node name="Program.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="demo_archunitnet_tests" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.demo__archunitnet__tests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
